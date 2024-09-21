@@ -1,2 +1,2 @@
-# meu-repositorio-de-autenticacao-DIO
+# Meu repositório de autenticação - DIO
 Repositório de testes de autenticação
